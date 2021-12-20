@@ -49,12 +49,6 @@ To view the logs of a single service, run:
 docker-compose logs --follow <service_name>
 ```
 
-i.e.:
-
-```bash
-docker-compose logs --follow monerod
-```
-
 ## Getting Started
 
 As this simply helps you get these services running, using each service is outside of the scope of this project. However, below are some links for getting started with each:
