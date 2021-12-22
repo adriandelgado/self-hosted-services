@@ -224,3 +224,4 @@ volumes:
   cryptpad-data:
   cryptpad-datastores:
   bitwarden-data:
+  send_redis-data:
